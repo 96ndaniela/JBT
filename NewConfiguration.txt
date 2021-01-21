@@ -1,0 +1,65 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.email.suffix" : "@",
+  "config.field.mappings" : {
+    "Project" : {
+      "existing.custom.field" : "30300"
+    },
+    "POC" : {
+      "existing.custom.field" : "33006"
+    },
+    "IQN" : {
+      "existing.custom.field" : "33005"
+    },
+    "Resource End Date" : {
+      "existing.custom.field" : "33010"
+    },
+    "Resource Start Date" : {
+      "existing.custom.field" : "33007"
+    },
+    "Client" : {
+      "existing.custom.field" : "15917"
+    },
+    "Role Title" : {
+      "existing.custom.field" : "33003"
+    },
+    "Role ID" : {
+      "jira.field" : "summary"
+    },
+    "Role Created Date" : {
+      "existing.custom.field" : "33009"
+    }
+  },
+  "config.value.mappings" : {
+    "Project" : {
+    },
+    "POC" : {
+    },
+    "IQN" : {
+    },
+    "Resource End Date" : {
+    },
+    "Role Title" : {
+    },
+    "Client" : {
+    },
+    "Resource Start Date" : {
+    },
+    "Role ID" : {
+    },
+    "Role Created Date" : {
+    }
+  },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "JBT",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "Jira board Test",
+    "project.lead" : "fredy.esparza"
+  },
+  "config.date.format" : "dd/MMM/yy"
+}
