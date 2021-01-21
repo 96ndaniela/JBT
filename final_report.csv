@@ -1,0 +1,59 @@
+   Summary Issue key  Issue Type              Client  \
+0       10   JBT-155         NaN          HSBC GROUP   
+1        9   JBT-154         NaN      BANCO SABADELL   
+2        8   JBT-153         NaN      BANCO SABADELL   
+3        7   JBT-152         NaN                 SAP   
+4        6   JBT-151         NaN                 SAP   
+5        5   JBT-150         NaN                 SAP   
+6        4   JBT-149         NaN  Accenture Software   
+7        3   JBT-148         NaN  Accenture Software   
+8        2   JBT-147         NaN  Accenture Software   
+9        1   JBT-146         NaN    CONSUMERS ENERGY   
+
+                                   Project  \
+0  0011213212 - HBMX Migration to AWS Wave   
+1         MX-BK-AS-VZ Apoyo Estructural F1   
+2         MX-BK-AS-VZ Apoyo Estructural F1   
+3                   9940199755 SAP MCD HEC   
+4                   9940199755 SAP MCD HEC   
+5                   9940199755 SAP MCD HEC   
+6         APP Product Engineering Services   
+7         APP Product Engineering Services   
+8         APP Product Engineering Services   
+9                                 10970669   
+
+                                          Role Title  Role ID       IQN  \
+0    Migration Cloud Operations Engineer - Senior 03  3479806  11592753   
+1                           Technology Delivery Lead  3448666   (blank)   
+2                   Technology Delivery Lead Copy 01  3448671   (blank)   
+3                                     Build Services  3503853   (blank)   
+4                         SAP Cloud (Dev and Ops)-AD  3503854   (blank)   
+5                 SAP Cloud (Dev and Ops)-AD Copy 01  3503855   (blank)   
+6                  SR Platform Engineer - Squad Team  3508026   (blank)   
+7  Jr. Platform Engineer - Squad Team - ElasticSe...  3508049   (blank)   
+8     Jr. Platform Engineer - Squad Team - Terraform  3508059   (blank)   
+9                             Mobile DevOps Engineer  3581018   (blank)   
+
+              Status                    POC Resource Start Date  \
+0  Open - In Process   Uribe Munoz,Fernando           25-Jan-21   
+1            On-Hold          Ruiz,Salvador            4-Jan-21   
+2            On-Hold          Ruiz,Salvador           21-Dec-20   
+3            On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
+4            On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
+5            On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
+6            On-Hold  Melendez Sanchez,Alex            1-Apr-21   
+7            On-Hold  Melendez Sanchez,Alex            1-Apr-21   
+8            On-Hold  Melendez Sanchez,Alex            1-Apr-21   
+9         Open - New       Kinnison,Phillip            1-Feb-21   
+
+  Role Created Date Resource End Date  
+0         16-Oct-20         31-Dec-21  
+1         22-Sep-20         30-Sep-21  
+2         22-Sep-20         30-Sep-21  
+3          7-Nov-20         31-Dec-25  
+4          7-Nov-20         31-Dec-25  
+5          7-Nov-20         31-Dec-25  
+6         11-Nov-20         31-Dec-21  
+7         11-Nov-20         31-Dec-21  
+8         11-Nov-20         31-Dec-21  
+9          7-Jan-21         15-Oct-21  
