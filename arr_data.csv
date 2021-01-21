@@ -1,14 +1,14 @@
-   Summary Issue Type              Client  \
-0      NaN     Demand          HSBC GROUP   
-1      NaN     Demand      BANCO SABADELL   
-2      NaN     Demand      BANCO SABADELL   
-3      NaN     Demand                 SAP   
-4      NaN     Demand                 SAP   
-5      NaN     Demand                 SAP   
-6      NaN     Demand  Accenture Software   
-7      NaN     Demand  Accenture Software   
-8      NaN     Demand  Accenture Software   
-9      NaN     Demand    CONSUMERS ENERGY   
+   Summary  Issue key Issue Type              Client  \
+0      NaN        NaN     Demand          HSBC GROUP   
+1      NaN        NaN     Demand      BANCO SABADELL   
+2      NaN        NaN     Demand      BANCO SABADELL   
+3      NaN        NaN     Demand                 SAP   
+4      NaN        NaN     Demand                 SAP   
+5      NaN        NaN     Demand                 SAP   
+6      NaN        NaN     Demand  Accenture Software   
+7      NaN        NaN     Demand  Accenture Software   
+8      NaN        NaN     Demand  Accenture Software   
+9      NaN        NaN     Demand    CONSUMERS ENERGY   
 
                                    Project  \
 0  0011213212 - HBMX Migration to AWS Wave   
@@ -22,17 +22,17 @@
 8         APP Product Engineering Services   
 9                                 10970669   
 
-                                          Role Title  Role ID  \
-0    Migration Cloud Operations Engineer - Senior 03  3479806   
-1                           Technology Delivery Lead  3448666   
-2                   Technology Delivery Lead Copy 01  3448671   
-3                                     Build Services  3503853   
-4                         SAP Cloud (Dev and Ops)-AD  3503854   
-5                 SAP Cloud (Dev and Ops)-AD Copy 01  3503855   
-6                  SR Platform Engineer - Squad Team  3508026   
-7  Jr. Platform Engineer - Squad Team - ElasticSe...  3508049   
-8     Jr. Platform Engineer - Squad Team - Terraform  3508059   
-9                             Mobile DevOps Engineer  3581018   
+                                          Role Title  Role ID  IQN  Status  \
+0    Migration Cloud Operations Engineer - Senior 03  3479806  NaN     NaN   
+1                           Technology Delivery Lead  3448666  NaN     NaN   
+2                   Technology Delivery Lead Copy 01  3448671  NaN     NaN   
+3                                     Build Services  3503853  NaN     NaN   
+4                         SAP Cloud (Dev and Ops)-AD  3503854  NaN     NaN   
+5                 SAP Cloud (Dev and Ops)-AD Copy 01  3503855  NaN     NaN   
+6                  SR Platform Engineer - Squad Team  3508026  NaN     NaN   
+7  Jr. Platform Engineer - Squad Team - ElasticSe...  3508049  NaN     NaN   
+8     Jr. Platform Engineer - Squad Team - Terraform  3508059  NaN     NaN   
+9                             Mobile DevOps Engineer  3581018  NaN     NaN   
 
                      POC Resource Start Date Role Created Date  \
 0   Uribe Munoz,Fernando           25-Jan-21         16-Oct-20   

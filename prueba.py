@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
 
-#print('Hello World!')
-#print( )
+# bring summary and IK from the csv that already has it
 import pandas as pd
 import csv
 
 data = pd.read_csv("DDE.csv")
-print(data.head())
-df_data = open("issuekey.csv", "w")
-df = pd.DataFrame(data, columns= ['Issue key'])
-print(df)
-print (df, file=df_data)
-df_data.close()
+
+df_summaryandik = open("summ_n_ik.csv", "w")
+df = pd.DataFrame(data, columns= ['Summary', 'Issue key'])
+
+
+#print(df)
+#print (df, file=df_summaryandik)
+df_summaryandik.close()

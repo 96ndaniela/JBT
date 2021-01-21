@@ -1,11 +1,11 @@
-Client,Project,Role Title,Role ID,POC,Resource Start Date,Role Created Date,Resource End Date,Issue Type,Summary
-HSBC GROUP,0011213212 - HBMX Migration to AWS Wave,Migration Cloud Operations Engineer - Senior 03,3479806,"Uribe Munoz,Fernando",25-Jan-21,16-Oct-20,31-Dec-21,Demand,
-BANCO SABADELL,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead,3448666,"Ruiz,Salvador",4-Jan-21,22-Sep-20,30-Sep-21,Demand,
-BANCO SABADELL,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead Copy 01,3448671,"Ruiz,Salvador",21-Dec-20,22-Sep-20,30-Sep-21,Demand,
-SAP,9940199755 SAP MCD HEC,Build Services,3503853,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand,
-SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD,3503854,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand,
-SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD Copy 01,3503855,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand,
-Accenture Software,APP Product Engineering Services,SR Platform Engineer - Squad Team,3508026,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand,
-Accenture Software,APP Product Engineering Services,Jr. Platform Engineer - Squad Team - ElasticSearch,3508049,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand,
-Accenture Software,APP Product Engineering Services,Jr. Platform Engineer - Squad Team - Terraform,3508059,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand,
-CONSUMERS ENERGY,10970669,Mobile DevOps Engineer,3581018,"Kinnison,Phillip",1-Feb-21,7-Jan-21,15-Oct-21,Demand,
+Client,Project,Role Title,Role ID,IQN,Status,POC,Resource Start Date,Role Created Date,Resource End Date,Issue Type
+test,0011213212 - HBMX Migration to AWS Wave,Migration Cloud Operations Engineer - Senior 03,3479806,11592753,Open - In Process,"Uribe Munoz,Fernando",25-Jan-21,16-Oct-20,31-Dec-21,Demand
+test2,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead,3448666,(blank),On-Hold,"Ruiz,Salvador",4-Jan-21,22-Sep-20,30-Sep-21,Demand
+BANCO SABADELL,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead Copy 01,3448671,(blank),On-Hold,"Ruiz,Salvador",21-Dec-20,22-Sep-20,30-Sep-21,Demand
+SAP,9940199755 SAP MCD HEC,Build Services,3503853,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand
+SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD,3503854,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand
+SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD Copy 01,3503855,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25,Demand
+Accenture Software,APP Product Engineering Services,SR Platform Engineer - Squad Team,3508026,(blank),On-Hold,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand
+Accenture Software,APP Product Engineering Services,Jr. Platform Engineer - Squad Team - ElasticSearch,3508049,(blank),On-Hold,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand
+Accenture Software,APP Product Engineering Services,Jr. Platform Engineer - Squad Team - Terraform,3508059,(blank),On-Hold,"Melendez Sanchez,Alex",1-Apr-21,11-Nov-20,31-Dec-21,Demand
+CONSUMERS ENERGY,10970669,Mobile DevOps Engineer,3581018,(blank),Open - New,"Kinnison,Phillip",1-Feb-21,7-Jan-21,15-Oct-21,Demand
