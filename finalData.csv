@@ -1,7 +1,7 @@
 ,Summary,Issue key,Issue Type,Client,Project,Role Title,Role ID,IQN,Status,POC,Resource Start Date,Role Created Date,Resource End Date
 0,10.0,JBT-155,Demand,HSBC GROUP,0011213212 - HBMX Migration to AWS Wave,Migration Cloud Operations Engineer - Senior 03,3479806,11592753,Open - In Process,"Uribe Munoz,Fernando",25-Jan-21,16-Oct-20,31-Dec-21
-1,9.0,JBT-154,Demand,BANCO SABADELL,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead,3448666,(blank),On-Hold,"Ruiz,Salvador",4-Jan-21,22-Sep-20,30-Sep-21
-2,8.0,JBT-153,Demand,BANCO SABADELL,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead Copy 01,3448671,(blank),On-Hold,"Ruiz,Salvador",21-Dec-20,22-Sep-20,30-Sep-21
+1,9.0,JBT-154,Demand,,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead,3448666,(blank),On-Hold,"Ruiz,Salvador",4-Jan-21,22-Sep-20,30-Sep-21
+2,8.0,JBT-153,Demand,,MX-BK-AS-VZ Apoyo Estructural F1,Technology Delivery Lead Copy 01,3448671,(blank),On-Hold,"Ruiz,Salvador",21-Dec-20,22-Sep-20,30-Sep-21
 3,7.0,JBT-152,Demand,SAP,9940199755 SAP MCD HEC,Build Services,3503853,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25
 4,6.0,JBT-151,Demand,SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD,3503854,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25
 5,5.0,JBT-150,Demand,SAP,9940199755 SAP MCD HEC,SAP Cloud (Dev and Ops)-AD Copy 01,3503855,(blank),On-Hold,"Garza Gil,Ovidio C.",4-Jan-21,7-Nov-20,31-Dec-25
