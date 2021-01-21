@@ -1,79 +1,17 @@
-    Summary Issue key Issue Type              Client  \
-0      10.0   JBT-155     Demand          HSBC GROUP   
-1       9.0   JBT-154     Demand      BANCO SABADELL   
-2       8.0   JBT-153     Demand      BANCO SABADELL   
-3       7.0   JBT-152     Demand                 SAP   
-4       6.0   JBT-151     Demand                 SAP   
-5       5.0   JBT-150     Demand                 SAP   
-6       4.0   JBT-149     Demand  Accenture Software   
-7       3.0   JBT-148     Demand  Accenture Software   
-8       2.0   JBT-147     Demand  Accenture Software   
-9       1.0   JBT-146     Demand    CONSUMERS ENERGY   
-10      NaN       NaN     Demand    CONSUMERS ENERGY   
-11      NaN       NaN     Demand             rsfhtns   
-12      NaN       NaN     Demand                fgbs   
-13      NaN       NaN     Demand          raenbtebtg   
+    Summary Issue key Issue Type              Client  ...                    POC Resource Start Date  Role Created Date Resource End Date
+0      10.0   JBT-155     Demand          HSBC GROUP  ...   Uribe Munoz,Fernando           25-Jan-21          16-Oct-20         31-Dec-21
+1       9.0   JBT-154     Demand      BANCO SABADELL  ...          Ruiz,Salvador            4-Jan-21          22-Sep-20         30-Sep-21
+2       8.0   JBT-153     Demand      BANCO SABADELL  ...          Ruiz,Salvador           21-Dec-20          22-Sep-20         30-Sep-21
+3       7.0   JBT-152     Demand                 SAP  ...    Garza Gil,Ovidio C.            4-Jan-21           7-Nov-20         31-Dec-25
+4       6.0   JBT-151     Demand                 SAP  ...    Garza Gil,Ovidio C.            4-Jan-21           7-Nov-20         31-Dec-25
+5       5.0   JBT-150     Demand                 SAP  ...    Garza Gil,Ovidio C.            4-Jan-21           7-Nov-20         31-Dec-25
+6       4.0   JBT-149     Demand  Accenture Software  ...  Melendez Sanchez,Alex            1-Apr-21          11-Nov-20         31-Dec-21
+7       3.0   JBT-148     Demand  Accenture Software  ...  Melendez Sanchez,Alex            1-Apr-21          11-Nov-20         31-Dec-21
+8       2.0   JBT-147     Demand  Accenture Software  ...  Melendez Sanchez,Alex            1-Apr-21          11-Nov-20         31-Dec-21
+9       1.0   JBT-146     Demand    CONSUMERS ENERGY  ...       Kinnison,Phillip            1-Feb-21           7-Jan-21         15-Oct-21
+10      NaN       NaN     Demand    CONSUMERS ENERGY  ...    Garza Gil,Ovidio C.                 NaN                NaN               NaN
+11      NaN       NaN     Demand             rsfhtns  ...  Melendez Sanchez,Alex                 NaN                NaN               NaN
+12      NaN       NaN     Demand                fgbs  ...  Melendez Sanchez,Alex                 NaN                NaN               NaN
+13      NaN       NaN     Demand          raenbtebtg  ...  Melendez Sanchez,Alex                 NaN                NaN               NaN
 
-                                    Project  \
-0   0011213212 - HBMX Migration to AWS Wave   
-1          MX-BK-AS-VZ Apoyo Estructural F1   
-2          MX-BK-AS-VZ Apoyo Estructural F1   
-3                    9940199755 SAP MCD HEC   
-4                    9940199755 SAP MCD HEC   
-5                    9940199755 SAP MCD HEC   
-6          APP Product Engineering Services   
-7          APP Product Engineering Services   
-8          APP Product Engineering Services   
-9                                  10970669   
-10                                 10970669   
-11                                 68867797   
-12                               4544545454   
-13                                 80909090   
-
-                                           Role Title  Role ID       IQN  \
-0     Migration Cloud Operations Engineer - Senior 03  3479806  11592753   
-1                            Technology Delivery Lead  3448666   (blank)   
-2                    Technology Delivery Lead Copy 01  3448671   (blank)   
-3                                      Build Services  3503853   (blank)   
-4                          SAP Cloud (Dev and Ops)-AD  3503854   (blank)   
-5                  SAP Cloud (Dev and Ops)-AD Copy 01  3503855   (blank)   
-6                   SR Platform Engineer - Squad Team  3508026   (blank)   
-7   Jr. Platform Engineer - Squad Team - ElasticSe...  3508049   (blank)   
-8      Jr. Platform Engineer - Squad Team - Terraform  3508059   (blank)   
-9                              Mobile DevOps Engineer  3581018   (blank)   
-10                             Mobile DevOps Engineer  3581018   (blank)   
-11                                      zxvzvzvzvzvzv  3581018   (blank)   
-12                                          jkjkjkjkj  3581018   (blank)   
-13                                       rwteyreyerye  3581018   (blank)   
-
-               Status                    POC Resource Start Date  \
-0   Open - In Process   Uribe Munoz,Fernando           25-Jan-21   
-1             On-Hold          Ruiz,Salvador            4-Jan-21   
-2             On-Hold          Ruiz,Salvador           21-Dec-20   
-3             On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
-4             On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
-5             On-Hold    Garza Gil,Ovidio C.            4-Jan-21   
-6             On-Hold  Melendez Sanchez,Alex            1-Apr-21   
-7             On-Hold  Melendez Sanchez,Alex            1-Apr-21   
-8             On-Hold  Melendez Sanchez,Alex            1-Apr-21   
-9          Open - New       Kinnison,Phillip            1-Feb-21   
-10         Open - New    Garza Gil,Ovidio C.                 NaN   
-11         Open - New  Melendez Sanchez,Alex                 NaN   
-12         Open - New  Melendez Sanchez,Alex                 NaN   
-13         Open - New  Melendez Sanchez,Alex                 NaN   
-
-   Role Created Date Resource End Date  
-0          16-Oct-20         31-Dec-21  
-1          22-Sep-20         30-Sep-21  
-2          22-Sep-20         30-Sep-21  
-3           7-Nov-20         31-Dec-25  
-4           7-Nov-20         31-Dec-25  
-5           7-Nov-20         31-Dec-25  
-6          11-Nov-20         31-Dec-21  
-7          11-Nov-20         31-Dec-21  
-8          11-Nov-20         31-Dec-21  
-9           7-Jan-21         15-Oct-21  
-10               NaN               NaN  
-11               NaN               NaN  
-12               NaN               NaN  
-13               NaN               NaN  
+[14 rows x 13 columns]
